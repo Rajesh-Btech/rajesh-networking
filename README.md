@@ -37,5 +37,5 @@ This repository highlights my **Networking & NOC** through hands-on labs, projec
 ---
 
 ## 📫 Connect with Me
-- GitHub: [Rajesh](https://github.com/rajesh-networking)  
+- GitHub: [Rajesh](https://github.com/Rajesh-Btech/rajesh-networking)
 - LinkedIn: [Rajesh M](https://www.linkedin.com/in/rajesh-m-715a71aa/)  
