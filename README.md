@@ -15,7 +15,7 @@ This repository highlights my **Networking & NOC** through hands-on labs, projec
 ---
 
 ## ⚡ Skills
-- **Routing & Switching**: OSPF, EIGRP, BGP, VLANs, STP, RSTP  
+- **Routing & Switching**: OSPF, EIGRP, BGP, VLANs, FHRP (HRRP, VRRP, GLBP),STP, RSTP, PORT SECURITY, DNS, DHCP, VLAN, TRUNK, STATIC & DYNAMIC, NETWORKING MONITORING, SERVICENOW INCIDENT MANAGEMENT,
 - **Security**: NAT, VPNs, ACLs, Firewalls (Palo Alto, Cisco ASA)  
 - **Virtual Labs**: EVE-NG, GNS3, Wireshark  
 - **Other**: Linux Networking, Automation Basics  
