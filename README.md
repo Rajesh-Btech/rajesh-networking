@@ -30,8 +30,9 @@ This repository highlights my **Networking & NOC** through hands-on labs, projec
 ---
 
 ## 📜 Certifications
-- 🏅 CCNA (in progress / achieved)  
-- 🏅 Palo Alto (PCNSA/PCNSE – if in progress, mention)  
+- 🏅 CCNA Routing & Switching (200-301)
+- 🏅 Pursuing CCNP ENCOR & SD-WAN
+- 🏅 Palo Alto (PCNSA/PCNSE – if in progress)  
 
 ---
 
